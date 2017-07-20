@@ -34,6 +34,7 @@
 ### 不能和解预案
   [不能和解预案](https://github.com/projectguo7/projectguo7/blob/master/bnhjya/%E4%B8%8D%E8%83%BD%E5%92%8C%E8%A7%A3%E9%A2%84%E6%A1%88.md)
 ### 自然环境恢复方案
+  [自然环境恢复方案](https://github.com/projectguo7/projectguo7/blob/master/zrhjhffa/%E8%87%AA%E7%84%B6%E7%8E%AF%E5%A2%83%E6%81%A2%E5%A4%8D%E6%96%B9%E6%A1%88.md)
 ### 公序良俗恢复方案
   [公序良俗恢复方案](https://github.com/projectguo7/projectguo7/blob/master/gxlshffa/%E5%85%AC%E5%BA%8F%E8%89%AF%E4%BF%97%E6%81%A2%E5%A4%8D%E6%96%B9%E6%A1%88.md)
 ### 转型期牺牲人员纪念方案及家属抚恤方案
