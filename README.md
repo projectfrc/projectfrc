@@ -45,6 +45,7 @@
 ### 外逃官员追查、制裁方案
   [外逃官员追查、制裁方案](https://github.com/projectguo7/projectguo7/blob/master/wtgyzczcfa/%E5%A4%96%E9%80%83%E5%AE%98%E5%91%98%E8%BF%BD%E6%9F%A5%E3%80%81%E5%88%B6%E8%A3%81%E6%96%B9%E6%A1%88.md)
 ### 现政府职员转业谋生支持方案
+  [现政府职员转业谋生支持方案](https://github.com/projectguo7/projectguo7/blob/master/xzfzyzymszcfa/%E7%8E%B0%E6%94%BF%E5%BA%9C%E8%81%8C%E5%91%98%E8%BD%AC%E4%B8%9A%E8%B0%8B%E7%94%9F%E6%94%AF%E6%8C%81%E6%96%B9%E6%A1%88.md)
 ### 教育恢复方案
   [教育恢复方案](https://github.com/projectguo7/projectguo7/blob/master/jyfhfa/%E6%95%99%E8%82%B2%E6%81%A2%E5%A4%8D%E6%96%B9%E6%A1%88.md)
 ### 诚实鼓励法案
