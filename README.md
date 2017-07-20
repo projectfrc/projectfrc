@@ -25,6 +25,7 @@
 ### 国际宣言
   [国际宣言](https://github.com/projectguo7/projectguo7/blob/master/gjxy/%E5%9B%BD%E9%99%85%E5%AE%A3%E8%A8%80.md)
 ### 宪法、法律文本起草，政府组织方案
+  [宪法、法律文本起草，政府组织方案](https://github.com/projectguo7/projectguo7/blob/master/xfflqicao/%E5%AE%AA%E6%B3%95%E3%80%81%E6%B3%95%E5%BE%8B%E6%96%87%E6%9C%AC%E8%B5%B7%E8%8D%89%EF%BC%8C%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87%E6%96%B9%E6%A1%88.md)
 ### 法制实施保障方案
   [法制实施保障方案](https://github.com/projectguo7/projectguo7/blob/master/fzss/%E6%B3%95%E5%88%B6%E5%AE%9E%E6%96%BD%E4%BF%9D%E9%9A%9C%E6%96%B9%E6%A1%88.md)
 ### 政治和解路线图
