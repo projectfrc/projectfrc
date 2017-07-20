@@ -40,3 +40,4 @@
 ### 现政府职员转业谋生支持方案
 ### 教育恢复方案
 ### 诚实鼓励法案
+  [诚实鼓励法案](https://github.com/projectguo7/projectguo7/blob/master/csglfa/%E8%AF%9A%E5%AE%9E%E9%BC%93%E5%8A%B1%E6%B3%95%E6%A1%88.md)
