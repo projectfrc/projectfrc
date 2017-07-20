@@ -37,6 +37,7 @@
   [公序良俗恢复方案](https://github.com/projectguo7/projectguo7/blob/master/gxlshffa/%E5%85%AC%E5%BA%8F%E8%89%AF%E4%BF%97%E6%81%A2%E5%A4%8D%E6%96%B9%E6%A1%88.md)
 ### 转型期牺牲人员纪念方案及家属抚恤方案
 ### 金融体系清查方案
+  [金融体系清查方案](https://github.com/projectguo7/projectguo7/blob/master/jrtxqcfa/%E9%87%91%E8%9E%8D%E4%BD%93%E7%B3%BB%E6%B8%85%E6%9F%A5%E6%96%B9%E6%A1%88.md)
 ### 海外贪腐资金回收方案
   [海外贪腐资金回收方案](https://github.com/projectguo7/projectguo7/blob/master/hwtfzjhsfa/%E6%B5%B7%E5%A4%96%E8%B4%AA%E8%85%90%E8%B5%84%E9%87%91%E5%9B%9E%E6%94%B6%E6%96%B9%E6%A1%88.md)
 ### 外逃官员追查、制裁方案
