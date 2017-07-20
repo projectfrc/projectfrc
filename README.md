@@ -26,6 +26,7 @@
   [国际宣言](https://github.com/projectguo7/projectguo7/blob/master/gjxy/%E5%9B%BD%E9%99%85%E5%AE%A3%E8%A8%80.md)
 ### 宪法、法律文本起草，政府组织方案
 ### 法制实施保障方案
+  [法制实施保障方案](https://github.com/projectguo7/projectguo7/blob/master/fzss/%E6%B3%95%E5%88%B6%E5%AE%9E%E6%96%BD%E4%BF%9D%E9%9A%9C%E6%96%B9%E6%A1%88.md)
 ### 政治和解路线图
 ### 转型规划与转型制度建设
 ### 转型期社会稳定保障方案
