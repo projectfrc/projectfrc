@@ -23,6 +23,7 @@
 
 ## 子工程目录
 ### 国际宣言
+  [国际宣言](https://github.com/projectguo7/projectguo7/blob/master/gjxy/%E5%9B%BD%E9%99%85%E5%AE%A3%E8%A8%80.md)
 ### 宪法、法律文本起草，政府组织方案
 ### 法制实施方案
 ### 政治和解路线图
