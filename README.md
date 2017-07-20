@@ -30,6 +30,7 @@
   [法制实施保障方案](https://github.com/projectguo7/projectguo7/blob/master/fzss/%E6%B3%95%E5%88%B6%E5%AE%9E%E6%96%BD%E4%BF%9D%E9%9A%9C%E6%96%B9%E6%A1%88.md)
 ### 政治和解路线图
 ### 转型规划与转型制度建设
+  [转型规划与转型制度建设](https://github.com/projectguo7/projectguo7/blob/master/zxgh/%E8%BD%AC%E5%9E%8B%E8%A7%84%E5%88%92%E4%B8%8E%E8%BD%AC%E5%9E%8B%E5%88%B6%E5%BA%A6%E5%BB%BA%E8%AE%BE.md)
 ### 转型期社会稳定保障方案
 ### 不能和解预案
   [不能和解预案](https://github.com/projectguo7/projectguo7/blob/master/bnhjya/%E4%B8%8D%E8%83%BD%E5%92%8C%E8%A7%A3%E9%A2%84%E6%A1%88.md)
